@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\mufos\\OneDrive\\Desktop\\DojoCodingproject\\containerProject\\GitCsharp\\gitCsharp.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\mufos\\OneDrive\\Desktop\\DojoCodingproject\\containerProject\\GitCsharp\\gitCsharp.csproj",
         "packagesPath": "C:\\Users\\mufos\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mufos\\OneDrive\\Desktop\\DojoCodingproject\\containerProject\\GitCsharp\\obj\\",
+=======
+    "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\GitCsharp\\gitCsharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\GitCsharp\\gitCsharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\GitCsharp\\gitCsharp.csproj",
+        "projectName": "gitCsharp",
+        "projectPath": "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\GitCsharp\\gitCsharp.csproj",
+        "packagesPath": "C:\\Users\\Emily\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\GitCsharp\\obj\\",
+>>>>>>> f274fcf961671085cf289771d7eae7e6fe67f56d
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mufos\\AppData\\Roaming\\NuGet\\NuGet.Config"

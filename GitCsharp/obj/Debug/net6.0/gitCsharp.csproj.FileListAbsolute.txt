@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\mufos\OneDrive\Desktop\DojoCodingproject\containerProject\GitCsharp\bin\Debug\net6.0\gitCsharp.exe
 C:\Users\mufos\OneDrive\Desktop\DojoCodingproject\containerProject\GitCsharp\bin\Debug\net6.0\gitCsharp.deps.json
 C:\Users\mufos\OneDrive\Desktop\DojoCodingproject\containerProject\GitCsharp\bin\Debug\net6.0\gitCsharp.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\mufos\OneDrive\Desktop\DojoCodingproject\containerProject\GitCsharp\obj
 C:\Users\mufos\OneDrive\Desktop\DojoCodingproject\containerProject\GitCsharp\obj\Debug\net6.0\gitCsharp.pdb
 C:\Users\mufos\OneDrive\Desktop\DojoCodingproject\containerProject\GitCsharp\obj\Debug\net6.0\gitCsharp.genruntimeconfig.cache
 C:\Users\mufos\OneDrive\Desktop\DojoCodingproject\containerProject\GitCsharp\obj\Debug\net6.0\ref\gitCsharp.dll
+=======
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\bin\Debug\net6.0\gitCsharp.exe
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\bin\Debug\net6.0\gitCsharp.deps.json
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\bin\Debug\net6.0\gitCsharp.runtimeconfig.json
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\bin\Debug\net6.0\gitCsharp.dll
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\bin\Debug\net6.0\gitCsharp.pdb
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\obj\Debug\net6.0\gitCsharp.csproj.AssemblyReference.cache
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\obj\Debug\net6.0\gitCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\obj\Debug\net6.0\gitCsharp.AssemblyInfoInputs.cache
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\obj\Debug\net6.0\gitCsharp.AssemblyInfo.cs
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\obj\Debug\net6.0\gitCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\obj\Debug\net6.0\gitCsharp.dll
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\obj\Debug\net6.0\refint\gitCsharp.dll
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\obj\Debug\net6.0\gitCsharp.pdb
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\obj\Debug\net6.0\gitCsharp.genruntimeconfig.cache
+C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\obj\Debug\net6.0\ref\gitCsharp.dll
+>>>>>>> f274fcf961671085cf289771d7eae7e6fe67f56d
