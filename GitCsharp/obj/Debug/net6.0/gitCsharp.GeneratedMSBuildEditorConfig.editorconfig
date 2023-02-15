@@ -7,4 +7,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = gitCsharp
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\Dana\OneDrive\Desktop\WOS and ACE program\Git_Practice_Group_3\containerProject\GitCsharp\
+=======
 build_property.ProjectDir = C:\Users\Emily\Desktop\code-dojo\containerProject\GitCsharp\
+>>>>>>> ed40fc07f122003e6f9962227a1bf36b70a0faff

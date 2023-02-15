@@ -5,11 +5,19 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+<<<<<<< HEAD
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Dana\.nuget\packages\</NuGetPackageFolders>
+=======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\mufos\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> ed40fc07f122003e6f9962227a1bf36b70a0faff
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.3.1</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
+    <SourceRoot Include="C:\Users\Dana\.nuget\packages\" />
+=======
     <SourceRoot Include="C:\Users\mufos\.nuget\packages\" />
+>>>>>>> ed40fc07f122003e6f9962227a1bf36b70a0faff
   </ItemGroup>
 </Project>

@@ -8,11 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\Dana\\.nuget\\packages\\": {}
+=======
     "C:\\Users\\mufos\\.nuget\\packages\\": {}
+>>>>>>> ed40fc07f122003e6f9962227a1bf36b70a0faff
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\Dana\\OneDrive\\Desktop\\WOS and ACE program\\Git_Practice_Group_3\\containerProject\\GitCsharp\\gitCsharp.csproj",
+      "projectName": "gitCsharp",
+      "projectPath": "C:\\Users\\Dana\\OneDrive\\Desktop\\WOS and ACE program\\Git_Practice_Group_3\\containerProject\\GitCsharp\\gitCsharp.csproj",
+      "packagesPath": "C:\\Users\\Dana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dana\\OneDrive\\Desktop\\WOS and ACE program\\Git_Practice_Group_3\\containerProject\\GitCsharp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Dana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
       "projectUniqueName": "C:\\Users\\mufos\\OneDrive\\Desktop\\DojoCodingproject\\containerProject\\GitCsharp\\gitCsharp.csproj",
       "projectName": "gitCsharp",
       "projectPath": "C:\\Users\\mufos\\OneDrive\\Desktop\\DojoCodingproject\\containerProject\\GitCsharp\\gitCsharp.csproj",
@@ -21,6 +35,7 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mufos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> ed40fc07f122003e6f9962227a1bf36b70a0faff
       ],
       "originalTargetFrameworks": [
         "net6.0"
