@@ -42,8 +42,8 @@ grades.Add("Dana",96 );
 grades.Add("enzo",98);
 grades.Add("samy",99);
 
-for (int k = 0; k < grades.Count; k++)
-        {KeyValuePair<string, int> items=grades.ElementAt(k);
+for (int i = 0; i < grades.Count; i++)
+        {KeyValuePair<string, int> items=grades.ElementAt(i);
             
          Console.WriteLine($"{items.Key}:{items.Value}");
         }
