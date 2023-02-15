@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\gitCsharp\\gitCsharp.csproj": {}
+    "C:\\Users\\Dana\\OneDrive\\Desktop\\WOS and ACE program\\Git_Practice_Group_3\\containerProject\\GitCsharp\\gitCsharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\gitCsharp\\gitCsharp.csproj": {
+    "C:\\Users\\Dana\\OneDrive\\Desktop\\WOS and ACE program\\Git_Practice_Group_3\\containerProject\\GitCsharp\\gitCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\gitCsharp\\gitCsharp.csproj",
+        "projectUniqueName": "C:\\Users\\Dana\\OneDrive\\Desktop\\WOS and ACE program\\Git_Practice_Group_3\\containerProject\\GitCsharp\\gitCsharp.csproj",
         "projectName": "gitCsharp",
-        "projectPath": "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\gitCsharp\\gitCsharp.csproj",
-        "packagesPath": "C:\\Users\\Emily\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\gitCsharp\\obj\\",
+        "projectPath": "C:\\Users\\Dana\\OneDrive\\Desktop\\WOS and ACE program\\Git_Practice_Group_3\\containerProject\\GitCsharp\\gitCsharp.csproj",
+        "packagesPath": "C:\\Users\\Dana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dana\\OneDrive\\Desktop\\WOS and ACE program\\Git_Practice_Group_3\\containerProject\\GitCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emily\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Dana\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
