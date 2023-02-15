@@ -1,8 +1,20 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "RIuTK9DMY7w8FuZ1Lop2aRhnHaIFQ0m5t0daBiZ0/gL9TkpZszKb1DGOUcuyLpdNHchREW+p4/mJn5K2nllqow==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dana\\OneDrive\\Desktop\\WOS and ACE program\\Git_Practice_Group_3\\containerProject\\GitCsharp\\gitCsharp.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "43HTkmknU1GjHN5JjYYJkDX9CXYBhk3XtUAFRjs/+lAwKwY86XeKQUWqw/yIQBDu2pk/1l4sI1sA+M2Nt7d0TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mufos\\OneDrive\\Desktop\\DojoCodingproject\\containerProject\\GitCsharp\\gitCsharp.csproj",
+=======
+  "dgSpecHash": "jcVxRd5NIDpT+DO0UugLB7fTRNtia0Jndj7xJ1NM2Cbf2pWhCtPxQ30npBWivCVduCqRJUoeSZyQ06TzBYK/mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\GitCsharp\\gitCsharp.csproj",
+>>>>>>> f274fcf961671085cf289771d7eae7e6fe67f56d
+>>>>>>> ed40fc07f122003e6f9962227a1bf36b70a0faff
   "expectedPackageFiles": [],
   "logs": []
 }
