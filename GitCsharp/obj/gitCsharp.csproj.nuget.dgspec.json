@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\gitCsharp\\gitCsharp.csproj": {}
+    "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\GitCsharp\\gitCsharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\gitCsharp\\gitCsharp.csproj": {
+    "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\GitCsharp\\gitCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\gitCsharp\\gitCsharp.csproj",
+        "projectUniqueName": "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\GitCsharp\\gitCsharp.csproj",
         "projectName": "gitCsharp",
-        "projectPath": "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\gitCsharp\\gitCsharp.csproj",
+        "projectPath": "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\GitCsharp\\gitCsharp.csproj",
         "packagesPath": "C:\\Users\\Emily\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\gitCsharp\\obj\\",
+        "outputPath": "C:\\Users\\Emily\\Desktop\\code-dojo\\containerProject\\GitCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emily\\AppData\\Roaming\\NuGet\\NuGet.Config"
